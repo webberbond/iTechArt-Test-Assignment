@@ -1,0 +1,10 @@
+C:\Users\HomeUser\Desktop\Test\CsvParser\CsvParser\bin\Debug\Top100ChessPlayers.csv
+C:\Users\HomeUser\Desktop\Test\CsvParser\CsvParser\bin\Debug\CsvParser.exe.config
+C:\Users\HomeUser\Desktop\Test\CsvParser\CsvParser\bin\Debug\CsvParser.exe
+C:\Users\HomeUser\Desktop\Test\CsvParser\CsvParser\bin\Debug\CsvParser.pdb
+C:\Users\HomeUser\Desktop\Test\CsvParser\CsvParser\bin\Debug\LINQtoCSV.dll
+C:\Users\HomeUser\Desktop\Test\CsvParser\CsvParser\obj\Debug\CsvParser.csproj.AssemblyReference.cache
+C:\Users\HomeUser\Desktop\Test\CsvParser\CsvParser\obj\Debug\CsvParser.csproj.CoreCompileInputs.cache
+C:\Users\HomeUser\Desktop\Test\CsvParser\CsvParser\obj\Debug\CsvParser.csproj.CopyComplete
+C:\Users\HomeUser\Desktop\Test\CsvParser\CsvParser\obj\Debug\CsvParser.exe
+C:\Users\HomeUser\Desktop\Test\CsvParser\CsvParser\obj\Debug\CsvParser.pdb
